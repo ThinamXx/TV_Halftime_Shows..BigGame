@@ -1,9 +1,10 @@
-# TV-Halftime-Shows-the-Big-Game
-Hey there!! In this Project I have tried to answer the simple Questions about the TV, Halftime Shows and the Big Games. It will give you some insights about Pandas as well !
+# **TV, Halftime Shows and the Big Game**
 
-I  have tried to answer the following questions:
+**Descriptions and Target**
+- Whether or not you like football, the Super Bowl is a spectacle. There's a little something for everyone at your Super Bowl party. Drama in the form of blowouts, comebacks, and controversy for the sports fan. There are the ridiculously expensive ads, some hilarious, others gut-wrenching, thought-provoking, and weird. The half-time shows with the biggest musicians in the world, sometimes riding giant mechanical tigers or leaping from the roof of the stadium. It's a show, baby. And in this notebook, I'm going to find out how some of the elements of this show interact with each other. After exploring and cleaning our data a little, I'm going to answer questions like:
 
-What are the most extreme game outcomes?
-How does the game affect television viewership?
-How have viewership, TV ratings, and ad cost evolved over time?
-Who are the most prolific musicians in terms of halftime show performances?
+  - What are the most extreme game outcomes?
+  - How does the game affect television viewership?
+  - How have viewership, TV ratings, and ad cost evolved over time?
+  - Who are the most prolific musicians in terms of halftime show performances?
+  
